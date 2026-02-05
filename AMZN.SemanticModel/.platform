@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "AMZN"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "c92c149d-987e-4449-8a42-aba9a5e1693a"
+  }
+}
